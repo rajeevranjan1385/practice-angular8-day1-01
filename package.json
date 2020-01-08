@@ -20,5 +20,11 @@
   "bugs": {
     "url": "https://github.com/rajeevranjan1385/practice-angular8-day1-01/issues"
   },
-  "homepage": "https://github.com/rajeevranjan1385/practice-angular8-day1-01#readme"
+  "homepage": "https://github.com/rajeevranjan1385/practice-angular8-day1-01#readme",
+  "dependencies": {
+    "zone.js": "^0.10.2"
+  },
+  "devDependencies": {
+    "karma": "^4.4.1"
+  }
 }
